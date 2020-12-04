@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "824263768509",
+    "firebase_url": "https://mpteam-prj.firebaseio.com",
+    "project_id": "mpteam-prj",
+    "storage_bucket": "mpteam-prj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824263768509:android:cfc7f46cb04e88f499fad4",
+        "android_client_info": {
+          "package_name": "com.example.mp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824263768509-qdmo3lm08g70s7j5mtb74ru60teg21ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3N67ph6YAzKVEI_pf2ot7ZJs1ZzauEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824263768509-qdmo3lm08g70s7j5mtb74ru60teg21ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824263768509:android:0926166dd08cfefa99fad4",
+        "android_client_info": {
+          "package_name": "com.example.mp_team_prj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824263768509-qdmo3lm08g70s7j5mtb74ru60teg21ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3N67ph6YAzKVEI_pf2ot7ZJs1ZzauEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824263768509-qdmo3lm08g70s7j5mtb74ru60teg21ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824263768509:android:349bacdee48e7bf399fad4",
+        "android_client_info": {
+          "package_name": "com.example.term_randa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824263768509-qdmo3lm08g70s7j5mtb74ru60teg21ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3N67ph6YAzKVEI_pf2ot7ZJs1ZzauEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824263768509-qdmo3lm08g70s7j5mtb74ru60teg21ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/SNSFragment2">
+    <fragment
+        android:id="@+id/SNSFragment2"
+        android:name="com.example.mp_team_prj.Fragment.SNSFragment"
+        android:label="SNSFragment" >
+        <action
+            android:id="@+id/action_SNSFragment2_to_uploadFragment"
+            app:destination="@id/uploadFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/uploadFragment"
+        android:name="com.example.mp_team_prj.Fragment.UploadFragment"
+        android:label="UploadFragment" />
+</navigation>

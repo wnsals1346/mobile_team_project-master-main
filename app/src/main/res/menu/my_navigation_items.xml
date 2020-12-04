@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/drive"
+        android:icon="@drawable/ic_motorcycle_black_24dp"
+        android:enabled="true"
+        android:title="DRIVE" />
+    <item
+        android:id="@+id/AR"
+        android:icon="@drawable/ic_center_focus_weak_black_24dp"
+        android:enabled="true"
+        android:checked="true"
+        android:title="Post" />
+    <item
+        android:id="@+id/SNS"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:enabled="true"
+        android:title="SNS" />
+    <item
+        android:id="@+id/user_info"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:enabled="true"
+        android:title="User_info" />
+</menu>
